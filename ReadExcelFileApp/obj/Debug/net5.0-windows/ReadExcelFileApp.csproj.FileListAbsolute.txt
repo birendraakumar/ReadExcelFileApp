@@ -46,7 +46,6 @@ D:\Projects\ReadExcelFileApp\ReadExcelFileApp\bin\Debug\net5.0-windows\runtimes\
 D:\Projects\ReadExcelFileApp\ReadExcelFileApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
 D:\Projects\ReadExcelFileApp\ReadExcelFileApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Projects\ReadExcelFileApp\ReadExcelFileApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\Projects\ReadExcelFileApp\ReadExcelFileApp\obj\Debug\net5.0-windows\ReadExcelFileApp.csproj.AssemblyReference.cache
 D:\Projects\ReadExcelFileApp\ReadExcelFileApp\obj\Debug\net5.0-windows\ReadExcelFileApp.Form1.resources
 D:\Projects\ReadExcelFileApp\ReadExcelFileApp\obj\Debug\net5.0-windows\ReadExcelFileApp.csproj.GenerateResource.cache
 D:\Projects\ReadExcelFileApp\ReadExcelFileApp\obj\Debug\net5.0-windows\ReadExcelFileApp.GeneratedMSBuildEditorConfig.editorconfig
