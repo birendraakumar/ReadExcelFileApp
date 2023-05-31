@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Downloads\\ReadExcelFileApp\\ReadExcelFileApp\\ReadExcelFileApp.csproj": {}
+    "D:\\Projects\\ReadExcelFileApp\\ReadExcelFileApp\\ReadExcelFileApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Downloads\\ReadExcelFileApp\\ReadExcelFileApp\\ReadExcelFileApp.csproj": {
+    "D:\\Projects\\ReadExcelFileApp\\ReadExcelFileApp\\ReadExcelFileApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\ReadExcelFileApp\\ReadExcelFileApp\\ReadExcelFileApp.csproj",
+        "projectUniqueName": "D:\\Projects\\ReadExcelFileApp\\ReadExcelFileApp\\ReadExcelFileApp.csproj",
         "projectName": "ReadExcelFileApp",
-        "projectPath": "C:\\Users\\HP\\Downloads\\ReadExcelFileApp\\ReadExcelFileApp\\ReadExcelFileApp.csproj",
+        "projectPath": "D:\\Projects\\ReadExcelFileApp\\ReadExcelFileApp\\ReadExcelFileApp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\ReadExcelFileApp\\ReadExcelFileApp\\obj\\",
+        "outputPath": "D:\\Projects\\ReadExcelFileApp\\ReadExcelFileApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
