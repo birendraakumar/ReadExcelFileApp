@@ -1,0 +1,50 @@
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.exe
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.deps.json
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.pdb
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\IronXL.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.Form1.resources
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\refint\ReadExcelFileApp.dll
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.pdb
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documents\Visual Studio 2022\Code\ReadExcelFileApp\obj\Debug\net6.0-windows\ref\ReadExcelFileApp.dll
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.exe
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.deps.json
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.runtimeconfig.json
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.dll
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\ReadExcelFileApp.pdb
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\IronXL.dll
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ReadExcelFileApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.csproj.AssemblyReference.cache
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.Form1.resources
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.csproj.GenerateResource.cache
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.AssemblyInfoInputs.cache
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.AssemblyInfo.cs
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.csproj.CoreCompileInputs.cache
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.csproj.CopyComplete
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.dll
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\refint\ReadExcelFileApp.dll
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.pdb
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ReadExcelFileApp.genruntimeconfig.cache
+D:\ReadExcelFileApp\obj\Debug\net6.0-windows\ref\ReadExcelFileApp.dll
